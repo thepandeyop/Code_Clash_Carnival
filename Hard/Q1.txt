@@ -1,0 +1,22 @@
+Question:
+
+Write a program to find the greatest common divisor (GCD) of two positive integers. 
+The GCD of two integers is the largest positive integer that divides both numbers without leaving a remainder.
+
+Your program should take two positive integers a and b as input and output their greatest common divisor.
+
+Input:
+
+Two positive integers a and b separated by a space.
+
+Output:
+
+The greatest common divisor of the input integers a and b.
+
+Example:
+
+Input: 12 18
+Output: 6
+
+Input: 36 48
+Output: 12

@@ -1,0 +1,25 @@
+Question:
+
+Write a program to count the number of vowels and consonants in a given string. 
+Vowels are the letters 'a', 'e', 'i', 'o', and 'u', while consonants are all the other letters of the alphabet.
+
+Your program should take a string s as input and output the count of vowels and consonants in the string.
+
+Input:
+
+A string s consisting of alphabetic characters only. The string may contain both uppercase and lowercase letters.
+
+Output:
+
+Two integers separated by a space:
+
+The count of vowels in the string.
+The count of consonants in the string.
+
+Example:
+
+Input: "Hello World"
+Output: 3 7
+
+Input: "Code Clash Carnival"
+Output: 6 11

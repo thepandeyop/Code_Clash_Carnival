@@ -1,0 +1,25 @@
+Question:
+
+Write a program to calculate the power of a given number raised to an exponent. 
+The power of a number represents the number of times the base number is multiplied by itself.
+ For example, 2 raised to the power of 3 (2^3) equals 2 * 2 * 2, which equals 8.
+
+Your program should take two inputs: a base number base and an exponent exponent, and output the result of raising base to the power of exponent.
+
+Input:
+
+Two integers separated by a space:
+
+The base number base.
+The exponent exponent.
+Output:
+
+The result of raising the base number base to the power of exponent.
+
+Example:
+
+Input: 2 3
+Output: 8
+
+Input: 5 4
+Output: 625

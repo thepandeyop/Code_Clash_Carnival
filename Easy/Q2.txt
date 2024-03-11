@@ -1,0 +1,34 @@
+Problem statement:-
+
+Write a program that checks if a given string is a palindrome or not.
+
+Input:
+
+A string s consisting of lowercase and/or uppercase letters, digits, and/or special characters. 
+The length of the string is at most 1000 characters.
+
+Output:
+
+A boolean value indicating whether the input string s is a palindrome or not.
+Return True if the input string is a palindrome.
+Return False if the input string is not a palindrome.
+
+# Example 1:
+Input: "radar"
+Output: True
+Explanation: The input string "radar" is a palindrome because it reads the same backward as forward.
+
+# Example 2:
+Input: "level"
+Output: True
+Explanation: The input string "level" is a palindrome because it reads the same backward as forward.
+
+# Example 3:
+Input: "hello"
+Output: False
+Explanation: The input string "hello" is not a palindrome because it does not read the same backward as forward.
+
+# Example 4:
+Input: "A man, a plan, a canal, Panama"
+Output: True
+Explanation: The input string "A man, a plan, a canal, Panama" is a palindrome because it reads the same backward as forward, ignoring spaces, punctuation, and capitalization.

@@ -1,0 +1,25 @@
+Problem Statement:-
+
+Write a program to check if a given positive integer is a prime number or not.
+ A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. 
+ 
+ For example, 2, 3, 5, 7, 11, 13, 17, etc., are prime numbers.
+
+Your program should take a positive integer n as input and output whether n is a prime number or not.
+
+Input:
+
+A positive integer n (n > 1).
+
+Output:
+
+"Prime" if the input integer n is a prime number.
+"Not Prime" if the input integer n is not a prime number.
+
+Example:
+
+Input: 7
+Output: Prime
+
+Input: 12
+Output: Not Prime

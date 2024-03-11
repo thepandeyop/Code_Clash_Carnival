@@ -1,0 +1,22 @@
+Question:
+
+Write a program to convert a binary number to its decimal equivalent.
+ Binary numbers are represented using only 0s and 1s, while decimal numbers are represented using digits from 0 to 9.
+
+Your program should take a binary number as input and output its decimal equivalent.
+
+Input:
+
+A binary number consisting of 0s and 1s.
+
+Output:
+
+The decimal equivalent of the input binary number.
+
+Example:
+
+Input: 1010
+Output: 10
+
+Input: 11011
+Output: 27

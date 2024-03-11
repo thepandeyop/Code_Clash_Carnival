@@ -1,0 +1,21 @@
+Question:
+
+Write a program to reverse a given string.
+
+Your program should take a string as input and output the reverse of that string.
+
+Input:
+
+A string of characters.
+
+Output:
+
+The reverse of the input string.
+
+Example:
+
+Input: "hello"
+Output: "olleh"
+
+Input: "world"
+Output: "dlrow"
